@@ -161,13 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FastAPI](https://fastapi.tiangolo.com) for the backend framework
 - [Supabase](https://supabase.com) for the backend services
 
-## 📞 Contact
-
-Abhijeet Singh - [@linkedin](https://www.linkedin.com/public-profile/settings)
-Project Link: [https://github.com/Abhijeet999-beep/FurSpeak-AI_Android_Build](https://github.com/Abhijeet999-beep/FurSpeak-AI_Android_Build)
 
 ---
 
-<div align="center">
-  Made with ❤️ by Abhijeet Singh
-</div>
+
