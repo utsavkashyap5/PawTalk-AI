@@ -8,7 +8,7 @@
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0+-blue.svg)](https://fastapi.tiangolo.com)
   [![YOLOv5](https://img.shields.io/badge/YOLOv5-Latest-orange.svg)](https://github.com/ultralytics/yolov5)
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI/CD](https://github.com/Abhijeet999-beep/FurSpeak-AI_Android_Build/actions/workflows/ci.yml/badge.svg)](https://github.com/Abhijeet999-beep/FurSpeak-AI_Android_Build/actions/workflows/ci.yml)
+  [![CI/CD](https://github.com/Abhijeet999-beep/FurSpeak-AI_Android_Build/actions/workflows/ci.yml/badge.svg)]
   [![Codecov](https://codecov.io/gh/Abhijeet999-beep/FurSpeak-AI_Android_Build/branch/main/graph/badge.svg)](https://codecov.io/gh/Abhijeet999-beep/FurSpeak-AI_Android_Build)
   [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 </div>
